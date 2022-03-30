@@ -14,3 +14,6 @@ body {
 section {
   padding-top: 5rem;
 }
+.card-body p a {
+  text-decoration: none;
+}
